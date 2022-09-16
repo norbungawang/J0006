@@ -36,6 +36,6 @@
 <!-- This section must list as bulleted list how this repo depends or is integrated with other repos -->
 
 ## ཡིག་ཆ་ཁག Docs
-ཡིག་ཆ་གཞན་མེད།
+- ཡིག་ཆ་གཞན་མེད།
 
 <!-- This section must link to the docs which are in the root of the repository in /docs -->
