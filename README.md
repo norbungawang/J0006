@@ -26,20 +26,16 @@
 
 
 ## ལས་འཆར་གྱི་བདག་པོ། Owner
-
 - [@ngawangtrinley](https://github.com/ngawangtrinley)
 - [@SamaraEscudero](https://github.com/SamaraEscudero)
-
 <!-- This section lists the owners of the repo -->
 
 ## ཡིག་མཛོད་གཞན་དང་སྦྲེལ་ཡོད་མེད། Integrations
-
 - ཡིག་མཛོད་གཞན་དང་མཉམ་དུ་སྦྲེལ་མེད།
 
 <!-- This section must list as bulleted list how this repo depends or is integrated with other repos -->
 
 ## ཡིག་ཆ་ཁག Docs
-
-No documentations.
+ཡིག་ཆ་གཞན་མེད།
 
 <!-- This section must link to the docs which are in the root of the repository in /docs -->
