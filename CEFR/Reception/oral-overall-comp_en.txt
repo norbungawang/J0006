@@ -9,20 +9,28 @@ Can recognise a wide range of idiomatic expressions and colloquialisms, apprecia
 Can follow extended discourse even when it is not clearly structured and when relationships are only 
 implied and not signalled explicitly.
 
-B2_Can understand standard language or a familiar variety, live or broadcast, on both familiar and 
+B2+_Can understand standard language or a familiar variety, live or broadcast, on both familiar and 
 unfamiliar topics normally encountered in personal, social, academic or vocational life. Only extreme 
 [auditory/visual] background noise, inadequate discourse structure and/or idiomatic usage influence 
 the ability to understand.
 
-B1_Can understand straightforward factual information about common everyday or job-related topics, 
+B2_Can understand the main ideas of propositionally and linguistically complex discourse on both concrete 
+and abstract topics delivered in standard language or a familiar variety, including technical discussions 
+in their field of specialisation.
+Can follow extended discourse and complex lines of argument, provided the topic is reasonably 
+familiar, and the direction of the argument is signposted by explicit markers.
+
+B1+_Can understand straightforward factual information about common everyday or job-related topics, 
 identifying both general messages and specific details, provided people articulate clearly in a generally 
 familiar variety.
-Can understand the main points made in clear standard language or a familiar variety on familiar 
+
+B1_Can understand the main points made in clear standard language or a familiar variety on familiar 
 matters regularly encountered at work, school, leisure, etc., including short narratives.
 
-A2_Can understand enough to be able to meet needs of a concrete type, provided people articulate clearly 
+A2+_Can understand enough to be able to meet needs of a concrete type, provided people articulate clearly 
 and slowly.
-Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic 
+
+A2_Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic 
 personal and family information, shopping, local geography, employment), provided people articulate 
 clearly and slowly
 

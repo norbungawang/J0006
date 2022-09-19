@@ -16,11 +16,12 @@ Can follow detailed directions.
 Can understand public announcements at airports, stations and on planes, buses and trains, provided 
 these are clearly articulated with minimum interference from [auditory/visual] background noise.
 
-A2_Can understand and follow a series of instructions for familiar everyday activities such as sports, cooking, 
+A2+_Can understand and follow a series of instructions for familiar everyday activities such as sports, cooking, 
 etc., provided they are delivered slowly and clearly.
 Can understand straightforward announcements (e.g. of a cinema programme or sports event, that a train 
 has been delayed), provided the delivery is slow and clear.
-Can catch the main point in short, clear, simple messages and announcements.
+
+A2_Can catch the main point in short, clear, simple messages and announcements.
 Can understand simple directions on how to get from X to Y, by foot or public transport.
 Can understand basic instructions on times, dates and numbers, etc., and on routine tasks and assignments 
 to be carried out.
