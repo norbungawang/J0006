@@ -1,22 +1,23 @@
 Reading for orientation
-C2 No descriptors available; see B2
-C1 No descriptors available; see B2
-B2
-Can scan quickly through several sources (articles, reports, websites, books, etc.) in parallel, in both their 
+
+C2_No descriptors available; see B2
+
+C1_No descriptors available; see B2
+
+B2+_Can scan quickly through several sources (articles, reports, websites, books, etc.) in parallel, in both their 
 own field and in related fields, and can identify the relevance and usefulness of particular sections for the 
 task at hand.
-Can scan quickly through long and complex texts, locating relevant details.
+
+B2_Can scan quickly through long and complex texts, locating relevant details.
 Can quickly identify the content and relevance of news items, articles and reports on a wide range of 
 professional topics, deciding whether closer study is worthwhile.
-Page 56 3 CEFR – Companion volume
-Reading for orientation
 
 B1+_Can scan longer texts in order to locate desired information, and gather information from different parts of 
 a text, or from different texts in order to fulfil a specific task.
 Can scan through straightforward, factual texts in magazines, brochures or on the web, identify what they 
 are about and decide whether they contain information that might be of practical use.
 
-b1_Can find and understand relevant information in everyday material, such as letters, brochures and short 
+B1_Can find and understand relevant information in everyday material, such as letters, brochures and short 
 official documents.
 Can pick out important information about preparation and usage on the labels on foodstuff and medicine.
 Can assess whether an article, report or review is on the required topic.
