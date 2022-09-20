@@ -1,0 +1,10 @@
+- [x] [original](https://github.com/pecha-jobs/J0006/blob/main/CEFR/reception/oral-announcements_en.txt). Prep: Drongbu Lobsang
+- [ ] No. of can do: 
+- [ ] 1st Draft. Translator: 
+- [ ] No. of hours:
+- [ ] 2nd Draft. Translator: 
+- [ ] No. of hours:
+- [ ] Transifex. Translator: 
+- [ ] No. of hours:
+- [ ] Localization. Localizer: 
+- [ ] No. of hours:
