@@ -1,20 +1,15 @@
 Conversation
 
-C2_Can converse comfortably and appropriately, unhampered by any linguistic limitations in conducting a full 
-social and personal life.
+C2_Can converse comfortably and appropriately, unhampered by any linguistic limitations in conducting a full social and personal life.
 
 C1_Can use language flexibly and effectively for social purposes, including emotional, allusive and joking 
 usage.
 
-B2+_Can establish a relationship with interlocutors through sympathetic questioning and expressions of 
-agreement plus, if appropriate, comments about third parties or shared conditions.
-Can indicate reservations and reluctance, state conditions when agreeing to requests or granting 
-permission, and ask for understanding of their own position.
+B2+_Can establish a relationship with interlocutors through sympathetic questioning and expressions of agreement plus, if appropriate, comments about third parties or shared conditions.
+Can indicate reservations and reluctance, state conditions when agreeing to requests or granting permission, and ask for understanding of their own position.
 
-B2_Can engage in extended conversation on most general topics in a clearly participatory fashion, even in a 
-[audially/visually] noisy environment.
-Can sustain relationships with users of the target language without unintentionally amusing or irritating 
-them or requiring them to behave other than they would with another proficient language user.
+B2_Can engage in extended conversation on most general topics in a clearly participatory fashion, even in a [audially/visually] noisy environment.
+Can sustain relationships with users of the target language without unintentionally amusing or irritating them or requiring them to behave other than they would with another proficient language user.
 Can convey degrees of emotion and highlight the personal significance of events and experiences.
 
 B1+_Can start up a conversation and help keep it going by asking people relatively spontaneous questions 
