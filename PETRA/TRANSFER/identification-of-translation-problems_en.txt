@@ -1,0 +1,5 @@
+LT5 - 
+LT4 - 
+LT3 - can solve literary translation problems in several ways
+LT2 - can identify literary translation problems
+LT1 - can identify translation problems
