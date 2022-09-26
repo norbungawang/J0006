@@ -7,9 +7,7 @@ implicit as well as explicit meaning.
 
 C1_Can understand in detail lengthy, complex texts, whether or not these relate to their own area of speciality, 
 provided they can reread difficult sections.
-Can understand a wide variety of texts including literary writings, newspaper or magazine articles, and 
-specialised academic or professional publications, provided there are opportunities for rereading and they 
-have access to reference tools.
+Can understand a wide variety of texts including literary writings, newspaper or magazine articles, and specialised academic or professional publications, provided there are opportunities for rereading and they have access to reference tools.
 
 B2_Can read with a large degree of independence, adapting style and speed of reading to different texts and 
 purposes, and using appropriate reference sources selectively. Has a broad active reading vocabulary, but 
@@ -24,8 +22,7 @@ everyday or job-related language.
 A2_Can understand short, simple texts containing the highest frequency vocabulary, including a proportion of 
 shared international vocabulary items.
 
-A1_Can understand very short, simple texts a single phrase at a time, picking up familiar names, words and 
-basic phrases and rereading as required.
+A1_Can understand very short, simple texts a single phrase at a time, picking up familiar names, words and basic phrases and rereading as required.
 
 Pre-A1_Can recognise familiar words/signs accompanied by pictures, such as a fast-food restaurant menu 
 illustrated with photos or a picture book using familiar vocabulary.
