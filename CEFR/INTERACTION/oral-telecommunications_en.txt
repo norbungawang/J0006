@@ -5,20 +5,16 @@ if there is some interference (noise) or the caller has a less familiar accent.
 
 C1_Can use telecommunications effectively for most professional or personal purposes.
 
-B2_Can use telecommunications for a variety of personal and professional purposes, provided they can ask for 
-clarification if the accent or terminology is unfamiliar.
+B2_Can use telecommunications for a variety of personal and professional purposes, provided they can ask for clarification if the accent or terminology is unfamiliar.
 Can participate in extended casual conversation over the phone with a known person on a variety of 
 topics.
 
-B1+_Can use telecommunications for everyday personal or professional purposes, provided they can ask for 
-clarification from time to time.
-Can give important details over the (video)phone concerning an unexpected incident (e.g. a problem in a 
-hotel, with travel arrangements, with a hire car).
+B1+_Can use telecommunications for everyday personal or professional purposes, provided they can ask for clarification from time to time.
+Can give important details over the (video)phone concerning an unexpected incident (e.g. a problem in a hotel, with travel arrangements, with a hire car).
 
 B1_Can use telecommunications to have relatively simple but extended conversations with people they know 
 personally.
-Can use telecommunications for routine messages (e.g. arrangements for a meeting) and to obtain basic 
-services (e.g. book a hotel room or make a medical appointment).
+Can use telecommunications for routine messages (e.g. arrangements for a meeting) and to obtain basic services (e.g. book a hotel room or make a medical appointment).
 
 A2+_Can use telecommunications with their friends to exchange simple news, make plans and arrange to meet.
 

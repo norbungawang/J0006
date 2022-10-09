@@ -4,16 +4,12 @@ C2_No descriptors available; see B2
 
 C1_No descriptors available; see B2
 
-B2_Can understand and exchange complex information and advice on the full range of matters related to their 
-occupational role.
-Can use appropriate technical terminology when exchanging information or discussing their area of 
-specialisation with other specialists.
+B2_Can understand and exchange complex information and advice on the full range of matters related to their occupational role.
+Can use appropriate technical terminology when exchanging information or discussing their area of specialisation with other specialists.
 Can pass on detailed information reliably.
 
-B1+_Can exchange, check and confirm accumulated factual information on familiar routine and non-routine 
-matters within their field with some confidence.
-Can summarise and give their opinion about a short story, article, talk, discussion, interview or 
-documentary and answer further questions of detail.
+B1+_Can exchange, check and confirm accumulated factual information on familiar routine and non-routine matters within their field with some confidence.
+Can summarise and give their opinion about a short story, article, talk, discussion, interview or documentary and answer further questions of detail.
 
 B1_Can find out and pass on straightforward factual information.
 Can ask for and follow detailed directions.
@@ -32,15 +28,11 @@ Can exchange limited information on familiar and routine operational matters.
 Can ask and answer questions about what they do at work and in their free time.
 Can ask for and give directions referring to a map or plan.
 Can ask for and provide personal information.
-Can ask and answer simple questions about an event (e.g. ask where and when it took place, who was 
-there and what it was like).
+Can ask and answer simple questions about an event (e.g. ask where and when it took place, who was there and what it was like).
 
-A1_Can understand questions and instructions addressed carefully and slowly to them and follow short, 
-simple directions.
-Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate 
-need or on very familiar topics.
-Can ask and answer questions about themselves and other people, where they live, people they know, 
-things they have.
+A1_Can understand questions and instructions addressed carefully and slowly to them and follow short, simple directions.
+Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics.
+Can ask and answer questions about themselves and other people, where they live, people they know, things they have.
 Can indicate time by lexicalised phrases like “next week”, “last Friday”, “in November”, “3 o’clock”.
 Can express numbers, quantities and cost in a limited way.
 Can name the colour of clothes or other familiar objects and can ask the colour of such objects.
@@ -51,5 +43,4 @@ Can ask and tell what day, time of day and date it is.
 Can ask for and give a date of birth.
 Can ask for and give a phone number.
 Can tell people their age and ask people about their age.
-Can ask very simple questions for information, such as “What is this?” and understand one- or two-word/
-sign answers.
+Can ask very simple questions for information, such as “What is this?” and understand one- or two-word/sign answers.
