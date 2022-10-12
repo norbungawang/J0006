@@ -20,7 +20,7 @@
 ## ལས་འཆར་གྱི་འགྲེལ་བཤད་ཁག Description
 
 - [ ]  [RFJ0006](https://github.com/pecha-jobs/Requests/issues/24)
-- [ ]  [RFC0006](https://github.com/pecha-jobs/Requests/issues/23)
+- [ ]  [RFC0006](https://github.com/pecha-jobs/Admin/issues/41)
 - [ ]  [Project](https://github.com/orgs/pecha-jobs/projects/8/views/1)
 
 
