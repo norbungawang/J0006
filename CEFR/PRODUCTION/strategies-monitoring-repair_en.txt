@@ -2,8 +2,7 @@ Monitoring and repair
 
 C2_Can backtrack and restructure around a difficulty so smoothly that the interlocutor is hardly aware of it.
 
-C1_Can backtrack when they encounter a difficulty and reformulate what they want to say without fully 
-interrupting the flow of language.
+C1_Can backtrack when they encounter a difficulty and reformulate what they want to say without fully interrupting the flow of language.
 Can self-correct with a high degree of effectiveness.
 
 B2+_Can often retrospectively self-correct their occasional “slips” or non-systematic errors and minor flaws in 
