@@ -24,13 +24,11 @@ Can express their ideas and opinions with precision, and present and respond to 
 argument convincingly.
 
 B2_Can participate actively in routine and non-routine formal discussion.
-Can follow the discussion on matters related to their field, understand in detail the points given 
-prominence.
+Can follow the discussion on matters related to their field, understand in detail the points given prominence.
 Can contribute, account for and sustain their opinion, evaluate alternative proposals and make and 
 respond to hypotheses.
 
-B1+_Can follow much of what is said that is related to their field, provided interlocutors avoid very idiomatic 
-usage and articulate clearly.
+B1+_Can follow much of what is said that is related to their field, provided interlocutors avoid very idiomatic usage and articulate clearly.
 Can put over a point of view clearly, but has difficulty engaging in debate.
 
 B1_Can take part in routine formal discussion of familiar subjects which is clearly articulated in the standard 
