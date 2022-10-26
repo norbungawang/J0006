@@ -2,8 +2,7 @@ Conversation
 
 C2_Can converse comfortably and appropriately, unhampered by any linguistic limitations in conducting a full social and personal life.
 
-C1_Can use language flexibly and effectively for social purposes, including emotional, allusive and joking 
-usage.
+C1_Can use language flexibly and effectively for social purposes, including emotional, allusive and joking usage.
 
 B2+_Can establish a relationship with interlocutors through sympathetic questioning and expressions of agreement plus, if appropriate, comments about third parties or shared conditions.
 Can indicate reservations and reluctance, state conditions when agreeing to requests or granting permission, and ask for understanding of their own position.
@@ -20,8 +19,7 @@ effort to support understanding.
 B1_Can enter unprepared into conversations on familiar topics.
 Can follow clearly articulated language directed at them in everyday conversation, though will sometimes 
 have to ask for repetition of particular words/signs.
-Can maintain a conversation or discussion but may sometimes be difficult to follow when trying to express 
-exactly what they would like to.
+Can maintain a conversation or discussion but may sometimes be difficult to follow when trying to express exactly what they would like to.
 Can express and respond to feelings such as surprise, happiness, sadness, interest and indifference.
 
 A2+_Can establish social contact (e.g. greetings and farewells, introductions, giving thanks).
@@ -35,8 +33,7 @@ to do a favour for them.
 A2_Can handle very short social exchanges but is rarely able to understand enough to keep conversation 
 going of their own accord, though they can be made to understand if the interlocutor will take the trouble.
 Can use simple, everyday, polite forms of greeting and address.
-Can converse in simple language with peers, colleagues or members of a host family, asking questions and 
-understanding answers relating to most routine matters.
+Can converse in simple language with peers, colleagues or members of a host family, asking questions and understanding answers relating to most routine matters.
 Can make and respond to invitations, suggestions and apologies.
 Can express how they are feeling, using very basic stock expressions.
 Can state what they like and dislike.
@@ -48,7 +45,6 @@ country, family, school).
 Can make an introduction and use basic greeting and leave-taking expressions.
 Can ask how people are and react to news.
 
-Pre-A1_Can understand and use basic, formulaic expressions such as “Yes”, “No”, “Excuse me”, “Please”, “Thank you”, 
-“No thank you”, “Sorry”.
+Pre-A1_Can understand and use basic, formulaic expressions such as “Yes”, “No”, “Excuse me”, “Please”, “Thank you”, “No thank you”, “Sorry”.
 Can recognise simple greetings.
 Can greet people, state their name and take leave in a simple way.
