@@ -3,7 +3,7 @@ Overall oral interaction
 C2_Has a good command of idiomatic expressions and colloquialisms with awareness of connotative levels of 
 meaning. Can convey finer shades of meaning precisely by using, with reasonable accuracy, a wide range of modification devices. Can backtrack and restructure around a difficulty so smoothly that the interlocutor is hardly aware of it.
 
-C1_Can express themselves fluently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious 
+C1_C an express themselves fluently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious 
 searching for expressions or avoidance strategies; only a conceptually difficult subject can hinder a natural, 
 smooth flow of language.
 
@@ -20,14 +20,13 @@ B1_Can exploit a wide range of simple language to deal with most situations like
 Can enter unprepared into conversation on familiar topics, and express personal opinions and exchange information on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, 
 hobbies, work, travel and current events).
 
-A2+_Can interact with reasonable ease in structured situations and short conversations, provided the other 
-person helps if necessary. Can manage simple, routine exchanges without undue effort; can ask and answer questions and exchange ideas and information on familiar topics in predictable everyday 
-situations.
+A2+_Can interact with reasonable ease in structured situations and short conversations, provided the other person helps if necessary. 
+Can manage simple, routine exchanges without undue effort; can ask and answer questions and exchange ideas and information on familiar topics in predictable everyday situations.
 
-A2_Can communicate in simple and routine tasks requiring a simple and direct exchange of information on 
-familiar and routine matters to do with work and free time. Can handle very short social exchanges but is 
-rarely able to understand enough to keep conversation going of their own accord.
+A2_Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters to do with work and free time. 
+Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of their own accord.
 
-A1_Can interact in a simple way but communication is totally dependent on repetition at a slower rate, rephrasing and repair. Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics.
+A1_Can interact in a simple way but communication is totally dependent on repetition at a slower rate, rephrasing and repair. 
+Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics.
 
 Pre-A1_Can ask and answer questions about themselves and daily routines, using short, formulaic expressions and relying on gestures to reinforce the information.
